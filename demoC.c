@@ -1,8 +1,10 @@
-#include "stdlib.h"
-#include "stdio.h"
+#include "demoC.h"
 
 int main(){
 
-    printf("Hello world");
+    show();
+    show();
+    show();
+
     return 0;
 }
